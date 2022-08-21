@@ -1,4 +1,4 @@
-This is Final project for the course EE2003(COmputer Architecture and organisation) at IIT Madras.
+This is Final project for the course EE2003(Computer Architecture and organisation) at IIT Madras.
 
 This project aims to optimize the nanojpeg decoder which runs on picorv32 processor using hardware accelerator approach. In the process of decoding jpeg images to ppm using nanojpeg decoder, the botteleneck is identified as the inverse DCT calculation part. Thus the whole process is accelerated just by optimising the IDCT calcuations using FPGA. 
 
